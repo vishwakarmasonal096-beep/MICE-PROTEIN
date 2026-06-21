@@ -82,12 +82,6 @@ With more domain collaboration, this model could be adapted for **human clinical
 
 ---
 
-## 👨‍💻 Author
-
-**Sufiyan Zamindar**  
-Machine Learning & Data Science Enthusiast  
-GitHub: [sufiyan-zamindar](https://github.com/sufiyan-zamindar)  
-LinkedIn: [Sufiyan Zamindar](https://www.linkedin.com/in/sufiyan-zamindar/)
 
 ---
 
