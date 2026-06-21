@@ -80,8 +80,4 @@ The Mice Protein Classification project showcases how machine learning can power
 Using KNN and feature selection, we built a highly accurate and interpretable model that could support biomedical research, especially in Down Syndrome and neuroscience.  
 With more domain collaboration, this model could be adapted for **human clinical applications**, making it a powerful tool in the future of bioinformatics.
 
----
-
-
----
-
+-
